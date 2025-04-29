@@ -12,6 +12,7 @@
 </p>
 
 ---
+<div align="center">
 
 ## 💻 Language
 
@@ -60,3 +61,5 @@
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmddbs134679)
+
+</div>
