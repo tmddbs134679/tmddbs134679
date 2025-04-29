@@ -29,7 +29,7 @@
 
 ---
 
-## 🔌 Networking Library
+## 🔌 Use Networking Library
 
 ![Mirror](https://img.shields.io/badge/Mirror-FF69B4?style=for-the-badge)
 ![Photon Fusion 2](https://img.shields.io/badge/Photon%20Fusion2-0082C9?style=for-the-badge)
