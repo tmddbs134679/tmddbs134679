@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.naver.com/tmddbs134679" target="_blank"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white" alt="Naver Blog"/></a>
+  <a href="https://blog.naver.com/ankhesenamen__" target="_blank"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white" alt="Naver Blog"/></a>
   <a href="https://tmddbs134679.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=dev.to&logoColor=white"/></a>
   <a href="https://youtube.com/@소스유"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
   <a href="mailto:tmddbs134679@naver.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
