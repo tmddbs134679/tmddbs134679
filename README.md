@@ -48,14 +48,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
----
-
-## 🧠 Algorithm Practice
-
-📌 꾸준히 코딩테스트 문제 풀이  
-📍 플랫폼: Baekjoon, Programmers  
-⏳ 하루 한 문제 이상 목표!  
-자동 업로드: [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)
 
 ---
 
