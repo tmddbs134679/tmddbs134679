@@ -57,6 +57,7 @@
 **달곰냥냥마을** -> [보러가기](https://github.com/tmddbs134679/DalgomMeowMeow)
 
 
+**프로젝트 한눈에 보기** -> [보러가기](https://www.notion.so/240859c184e28095a620d2d8785284b4)
 
 
 ---
