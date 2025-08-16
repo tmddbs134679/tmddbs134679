@@ -50,6 +50,16 @@
 
 
 ---
+## 🛠 대표 프로젝트
+
+![Honeycam2025-08-1414-00-18-ezgif com-resize](https://github.com/user-attachments/assets/c47348fd-2b6c-4833-8028-6693a40d3372)
+
+**달곰냥냥마을** -> [보러가기](https://github.com/tmddbs134679/DalgomMeowMeow)
+
+
+
+
+---
 
 ## 📈 GitHub Stats
 
